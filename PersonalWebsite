@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+  <title> Kirstyn Pittman </title>
+<style>
+  body{
+    text-align: center;
+    background: url("http://img.photobucket.com/albums/v334/hpfan31/golden-gate-bridge-wallpapers_3744_1600x1200.jpg");
+    background-size: cover;
+    background-position: right;
+    color: white;
+    font-family: Hoefler Text, Baskerville old face, Garamond, Times New Roman, serif;
+    font-weight: bold;
+  }
+  p{font-size: 22px;}
+  input {
+      border: ;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: black;
+      color: white;
+    }
+    </style>
+  </head>
+<image src="http://img.photobucket.com/albums/v334/hpfan31/417fb39c-ac0e-40a9-aaa4-49c02f9601f6.jpg?t=1411703690">
+<body>
+<p>Hi, I'm Kirstyn Pittman, a GIS Analyst and Cartographer based in San Francisco. Connect with me here!</p>
+<input type="email" placeholder="Your Email">
+<input type="submit">
+<body>
